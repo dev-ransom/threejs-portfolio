@@ -26,9 +26,17 @@ const Navbar = () => {
 				<div className="flex justify-between items-center py-5 mx-auto c-space">
 					<a
 						href="/"
-						className="text-neutral-400 font-bold text-xl hover:text-white transition-colors"
+						className="text-neutral-400 font-bold text-xl hover:text-white transition-colors flex justify-between items-center"
 					>
-						Ransom
+						<img
+							src="assets/Logo.jpeg"
+							alt="logo"
+							className="w-9 h-9 object-contain"
+						/>
+						<p className="text-[18px] font-bold cursor-pointer flex ">
+							Ransom &nbsp;
+							<span className="sm:block hidden"> | Frontend Developer</span>
+						</p>
 					</a>
 
 					<button
