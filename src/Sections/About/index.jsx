@@ -25,7 +25,7 @@ const About = () => {
             <div>
               <p className="grid-headtext">Hi, I’m Ransom Sunday</p>
               <p className="grid-subtext">
-              With 3 years of experience, I have honed my skills in frontend development, creating dynamic and responsive user interfaces that deliver seamless user experiences.
+              With 4 years of experience, I have honed my skills in frontend development, creating dynamic and responsive user interfaces that deliver seamless user experiences.
               </p>
             </div>
           </div>
