@@ -34,7 +34,7 @@ export const navLinks = [
       id: 2,
       name: 'Adams Rasheed',
       position: 'Founder of Talstrike',
-      img: 'assets/review2.png',
+      img: 'assets/adamsRasheed.jpg',
       review:
         'Ransom’s expertise in web development is truly impressive. He contributed in the development of our SOCIAL MEDIA APP DESIGNED FOR ATHLETE. He’s a true professional! Fantastic work.',
     },
